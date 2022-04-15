@@ -1,0 +1,43 @@
+Lab 8, Task 7
+
+
+Tree 1 (Letters) - Most inefficient
+              
+A            
+ \           
+  B
+   \
+    C
+     \
+      D
+       \
+        E..... (26 levels/height)               
+                   
+Tree 2 (Splitting) - Most Efficient - M is closest to the middle of the alphabet so it would give the most options for it to spread
+
+        M
+       / \
+      F   T
+     / \
+    C   J
+   / \
+  a   d
+   \
+    b  (5 Levels or Height)
+   
+
+Tree 3 (Popularity)
+
+         E    (7 Levels/Height)
+       /    \
+      A      T
+            / \
+           O   U
+          / \        
+         I   S
+            / 
+           R
+          /
+         P
+          \ 
+           Q 
