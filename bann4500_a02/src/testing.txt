@@ -1,0 +1,102 @@
+-------------------------------------------------------
+Assignment 2 Testing
+-------------------------------------------------------
+Author:  John Bannan
+ID:      200724500
+Email:   bann4500@mylaurier.ca
+Version: 2020-10-04
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+test 1
+
+Year: 2013
+
+Title:    Zulu
+Year:     2013
+Director: Jerome Salle
+Rating:   6.7
+Genres:   drama
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+test 1
+
+rating: 8.00
+
+Title:    Star Wars: Episode IV - A New Hope
+Year:     1977
+Director: George Lucas
+Rating:   8.7
+Genres:   science fiction, action
+
+Title:    Z
+Year:     1969
+Director: Costa-Gavras
+Rating:   8.2
+Genres:   drama
+
+Title:    Wonder Woman
+Year:     2017
+Director: Patty Jenkins
+Rating:   8.1
+Genres:   fantasy, action
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+
+test 1
+
+genre: 9
+
+Title:    Zulu
+Year:     1964
+Director: Cy Endfield
+Rating:   7.8
+Genres:   war
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+test 1
+
+genres = [0,6]
+
+Title:    I Am Legend
+Year:     2007
+Director: Francis Lawrence
+Rating:   7.1
+Genres:   science fiction, action
+
+Title:    Omega Man, The
+Year:     1971
+Director: Boris Sagal
+Rating:   6.6
+Genres:   science fiction, action
+
+Title:    Star Wars: Episode IV - A New Hope
+Year:     1977
+Director: George Lucas
+Rating:   8.7
+Genres:   science fiction, action
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+test 1
+
+[6, 3, 2, 3, 8, 1, 5, 0, 4, 1, 0]
+
+-------------------------------------------------------
+
