@@ -1,0 +1,19 @@
+t01:
+
+Using array-based list Hash_Set
+Total Comparisons: 14789543
+Word with maximum comparisons ill: 19,362
+
+
+t02:
+
+Using array-based Sorted list Hash_Set
+Total Comparisons: 2458961
+Word with maximum comparisons the: 20,468
+
+
+t03:
+
+Using linked BST Hash_Set
+Total Comparisons: 2122145
+Word with maximum comparisons letter: 40,372
